@@ -1,4 +1,4 @@
-# outcaster_project1
+# setting_ui
 
 A new Flutter project.
 
